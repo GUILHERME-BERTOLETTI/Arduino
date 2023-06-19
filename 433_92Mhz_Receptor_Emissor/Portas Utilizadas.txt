@@ -1,0 +1,28 @@
+Portas Display
+
+13 = rs
+12 = en
+11 = d4
+10 = d5
+9  = d6
+8  = d7
+
+Portas Botoes
+
+6  = botao1
+7  = botao2
+A0 = botao3
+A1 = botao4
+
+Portas 433mhz
+
+2  = Receptor Pode ser 2 ou 3 Apenas
+A2 = Trasmissor
+
+Ainda nao implementado
+
+Portas Infravermelho
+
+3  = emissor
+A3 = Receptor - testar
+
