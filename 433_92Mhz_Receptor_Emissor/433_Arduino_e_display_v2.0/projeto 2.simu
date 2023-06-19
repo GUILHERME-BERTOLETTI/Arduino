@@ -1,0 +1,93 @@
+<circuit type="simulide_0.4" animate="0" speed="1000000" reactStep="50" noLinAcc="5">
+ 
+Ground-11: 
+<item rotation="0" vflip="1" valLabRot="0" objectName="Ground-11" labelrot="0" hflip="1" labely="-24" Show_id="false" id="Ground-28" valLabelx="0" x="-496" itemtype="Ground" labelx="-16" y="-356" valLabely="0"/>
+ 
+Hd44780-10: 
+<item rotation="0" vflip="1" valLabRot="0" objectName="Hd44780-10" Cols="16" labelrot="0" hflip="1" labely="-82" Show_id="true" id="Hd44780-27" valLabelx="0" x="-292" itemtype="Hd44780" labelx="70" Rows="2" y="-424" valLabely="0"/>
+ 
+Arduino Uno-9: 
+<item Init_gdb="false" vflip="-1" eeprom="255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255" id="Arduino Uno-26" labelrot="0" hflip="-1" Logic_Symbol="false" x="-132" Mhz="16" Auto_Load="false" rotation="0" valLabely="0" Program="433_Arduino_e_display.ino.standard.hex" itemtype="Arduino" labelx="124" Show_id="true" labely="-12" y="-116" valLabRot="0" valLabelx="0" objectName="Arduino Uno-9"/>
+ 
+Push-8: 
+<item vflip="1" id="Mais" labelrot="0" hflip="1" x="-40" rotation="0" valLabely="0" itemtype="Push" Key="" labelx="-9" Show_id="true" Poles="1" labely="-25" y="-120" valLabRot="0" valLabelx="0" objectName="Push-8" Norm_Close="false"/>
+ 
+Push-7: 
+<item vflip="1" id="Menos" labelrot="0" hflip="1" x="-40" rotation="0" valLabely="0" itemtype="Push" Key="" labelx="-15" Show_id="true" Poles="1" labely="20" y="-80" valLabRot="0" valLabelx="0" objectName="Push-7" Norm_Close="false"/>
+ 
+Ground-6: 
+<item rotation="0" vflip="1" valLabRot="0" objectName="Ground-6" labelrot="0" hflip="1" labely="8" Show_id="false" id="Ground-182" valLabelx="0" x="-116" itemtype="Ground" labelx="-16" y="64" valLabely="0"/>
+ 
+Node-5: 
+<item rotation="0" vflip="1" valLabRot="0" objectName="Node-5" labelrot="0" hflip="1" labely="-24" Show_id="false" id="Node-185" valLabelx="0" x="-116" itemtype="Node" labelx="-16" y="-120" valLabely="0"/>
+ 
+Push-4: 
+<item vflip="1" id="Confirma" labelrot="0" hflip="1" x="-40" rotation="0" valLabely="0" itemtype="Push" Key="" labelx="-22" Show_id="true" Poles="1" labely="-23" y="-20" valLabRot="0" valLabelx="0" objectName="Push-4" Norm_Close="false"/>
+ 
+Push-3: 
+<item vflip="1" id="Volta" labelrot="0" hflip="1" x="-40" rotation="0" valLabely="0" itemtype="Push" Key="" labelx="-16" Show_id="true" Poles="1" labely="-24" y="28" valLabRot="0" valLabelx="0" objectName="Push-3" Norm_Close="false"/>
+ 
+Node-2: 
+<item rotation="0" vflip="1" valLabRot="0" objectName="Node-2" labelrot="0" hflip="1" labely="-24" Show_id="false" id="Node-192" valLabelx="0" x="-116" itemtype="Node" labelx="-16" y="28" valLabely="0"/>
+ 
+Node-1: 
+<item rotation="0" vflip="1" valLabRot="0" objectName="Node-1" labelrot="0" hflip="1" labely="-24" Show_id="false" id="Node-195" valLabelx="0" x="-116" itemtype="Node" labelx="-16" y="-20" valLabely="0"/>
+ 
+Connector-12: 
+<item vflip="1" id="Connector-66" labelrot="0" hflip="1" pointList="-268,-416,-268,-372,-496,-372" x="-268" enodeid="Circ_eNode-13" endpinid="Ground-11-Gnd" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Hd44780-10-PinRW" y="-416" valLabRot="0" valLabelx="0" objectName="Connector-12"/>
+ 
+Connector-14: 
+<item vflip="1" id="Connector-183" labelrot="0" hflip="1" pointList="-56,-120,-116,-120" x="-56" enodeid="Circ_eNode-15" endpinid="Node-5-0" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Push-8-pinP0" y="-120" valLabRot="0" valLabelx="0" objectName="Connector-14"/>
+ 
+Connector-16: 
+<item vflip="1" id="Connector-184" labelrot="0" hflip="1" pointList="-56,-80,-116,-80,-116,-120" x="-56" enodeid="Circ_eNode-15" endpinid="Node-5-1" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Push-7-pinP0" y="-80" valLabRot="0" valLabelx="0" objectName="Connector-16"/>
+ 
+Connector-17: 
+<item vflip="1" id="Connector-186" labelrot="0" hflip="1" pointList="-116,-120,-116,-20" x="-116" enodeid="Circ_eNode-15" endpinid="Node-1-0" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Node-5-2" y="-120" valLabRot="0" valLabelx="0" objectName="Connector-17"/>
+ 
+Connector-18: 
+<item vflip="1" id="Connector-191" labelrot="0" hflip="1" pointList="-56,28,-116,28" x="-56" enodeid="Circ_eNode-15" endpinid="Node-2-1" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Push-3-pinP0" y="28" valLabRot="0" valLabelx="0" objectName="Connector-18"/>
+ 
+Connector-19: 
+<item vflip="1" id="Connector-193" labelrot="0" hflip="1" pointList="-116,28,-116,48" x="-116" enodeid="Circ_eNode-15" endpinid="Ground-6-Gnd" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Node-2-2" y="28" valLabRot="0" valLabelx="0" objectName="Connector-19"/>
+ 
+Connector-20: 
+<item vflip="1" id="Connector-194" labelrot="0" hflip="1" pointList="-56,-20,-116,-20" x="-56" enodeid="Circ_eNode-15" endpinid="Node-1-1" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Push-4-pinP0" y="-20" valLabRot="0" valLabelx="0" objectName="Connector-20"/>
+ 
+Connector-21: 
+<item vflip="1" id="Connector-27" labelrot="0" hflip="1" pointList="-116,-20,-116,28" x="-116" enodeid="Circ_eNode-15" endpinid="Node-2-0" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Node-1-2" y="-20" valLabRot="0" valLabelx="0" objectName="Connector-21"/>
+ 
+Connector-30: 
+<item vflip="1" id="Connector-48" labelrot="0" hflip="1" pointList="-276,-416,-276,-244,-140,-244" x="-276" enodeid="Circ_eNode-31" endpinid="Arduino Uno-9-PB5" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Hd44780-10-PinRS" y="-416" valLabRot="0" valLabelx="0" objectName="Connector-30"/>
+ 
+Connector-32: 
+<item vflip="1" id="Connector-47" labelrot="0" hflip="1" pointList="-260,-416,-260,-236,-140,-236" x="-260" enodeid="Circ_eNode-33" endpinid="Arduino Uno-9-PB4" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Hd44780-10-PinEn" y="-416" valLabRot="0" valLabelx="0" objectName="Connector-32"/>
+ 
+Connector-34: 
+<item vflip="1" id="Connector-57" labelrot="0" hflip="1" pointList="-140,-228,-220,-228,-220,-416" x="-140" enodeid="Circ_eNode-35" endpinid="Hd44780-10-dataPin4" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Arduino Uno-9-PB3" y="-228" valLabRot="0" valLabelx="0" objectName="Connector-34"/>
+ 
+Connector-36: 
+<item vflip="1" id="Connector-58" labelrot="0" hflip="1" pointList="-140,-220,-212,-220,-212,-416" x="-140" enodeid="Circ_eNode-37" endpinid="Hd44780-10-dataPin5" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Arduino Uno-9-PB2" y="-220" valLabRot="0" valLabelx="0" objectName="Connector-36"/>
+ 
+Connector-38: 
+<item vflip="1" id="Connector-59" labelrot="0" hflip="1" pointList="-140,-212,-204,-212,-204,-416" x="-140" enodeid="Circ_eNode-39" endpinid="Hd44780-10-dataPin6" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Arduino Uno-9-PB1" y="-212" valLabRot="0" valLabelx="0" objectName="Connector-38"/>
+ 
+Connector-40: 
+<item vflip="1" id="Connector-60" labelrot="0" hflip="1" pointList="-140,-204,-196,-204,-196,-416" x="-140" enodeid="Circ_eNode-41" endpinid="Hd44780-10-dataPin7" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Arduino Uno-9-PB0" y="-204" valLabRot="0" valLabelx="0" objectName="Connector-40"/>
+ 
+Connector-22: 
+<item vflip="1" id="Connector-22" labelrot="0" hflip="1" pointList="-140,-180,4,-180,4,-120,-24,-120" x="-140" enodeid="enode-22" endpinid="Push-8-switch0pinN" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Arduino Uno-9-PD6" y="-180" valLabRot="0" valLabelx="0" objectName="Connector-22"/>
+ 
+Connector-53: 
+<item vflip="1" id="Connector-53" labelrot="0" hflip="1" pointList="-284,-172,-164,-172,-164,-200,24,-200,24,-20,-24,-20" x="-284" enodeid="enode-53" endpinid="Push-4-switch0pinN" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Arduino Uno-9-PC0" y="-172" valLabRot="0" valLabelx="0" objectName="Connector-53"/>
+ 
+Connector-28: 
+<item vflip="1" id="Connector-28" labelrot="0" hflip="1" pointList="-24,28,36,28,36,-196,-156,-196,-156,-164,-284,-164" x="-24" enodeid="enode-28" endpinid="Arduino Uno-9-PC1" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Push-3-switch0pinN" y="28" valLabRot="0" valLabelx="0" objectName="Connector-28"/>
+ 
+Connector-24: 
+<item vflip="1" id="Connector-24" labelrot="0" hflip="1" pointList="-24,-80,12,-80,12,-188,-140,-188" x="-24" enodeid="enode-24" endpinid="Arduino Uno-9-PD7" rotation="0" valLabely="0" itemtype="Connector" labelx="-16" Show_id="false" labely="-24" startpinid="Push-7-switch0pinN" y="-80" valLabRot="0" valLabelx="0" objectName="Connector-24"/>
+ 
+PlotterWidget-42: 
+<item sizeIncrement="" toolTip="" statusTip="" baseSize="" height="200" frameSize="" sizeHint="" minimized="false" minimumSize="" enabled="true" maximized="false" modal="false" pos="" windowModified="false" MinVolt="-500" geometry="" focus="false" childrenRegion="" cursor="" MaxVolt="500" fullScreen="false" rect="" acceptDrops="false" accessibleDescription="" normalGeometry="" minimumSizeHint="" windowIcon="" inputMethodHints="0" sizePolicy="" size="" locale="" itemtype="Plotter" windowModality="0" minimumHeight="200" accessibleName="" updatesEnabled="true" palette="" frameGeometry="" x="0" Tracks="1" maximumHeight="200" layoutDirection="0" styleSheet="" mouseTracking="false" focusPolicy="0" toolTipDuration="-1" windowFilePath="" Scale="1" contextMenuPolicy="1" whatsThis="" isActiveWindow="true" autoFillBackground="false" childrenRect="" width="200" maximumSize="" font="MS Shell Dlg 2,8.25,-1,5,50,0,0,0,0,0" windowTitle="" windowIconText="" windowOpacity="1" minimumWidth="200" maximumWidth="1000" visible="false" y="0" objectName="PlotterWidget-42"/>
+ 
+</circuit>
